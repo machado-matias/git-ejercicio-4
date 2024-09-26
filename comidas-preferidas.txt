@@ -2,4 +2,3 @@ Sushi
 Gyoza
 Helado
 Pizza
-Empanadas
